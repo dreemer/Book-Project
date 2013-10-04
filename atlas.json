@@ -1,5 +1,7 @@
 {
-  "files": [],
+  "files": [
+    "Chapter1.html"
+  ],
   "formats": {},
   "theme": "oreillymedia/atlas_tech1c_theme",
   "title": "Book Project"
